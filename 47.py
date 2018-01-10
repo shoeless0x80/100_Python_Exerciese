@@ -7,11 +7,24 @@ python_list = []
 for letter in string.ascii_lowercase[0::]:
 	with open(letter + ".txt", "r") as file:
 		content = file.read()
-		print(type(content))
-		"""if content is in "python":
-			continue
-		else:
-			python_list.append(file.read())
+		print(content)
+		if content in "python":
+			python_list.append(content)
 
 print(python_list)
+
+"""
+import glob
+
+letters = []
+file_list = glob.iglob("letters/*.txt")
+check = "python"
+
+for filename in file_list:
+	with open(filename, "r") as file:
+		letter = file.read().strip("\n")
+		if letter in check:
+			letters.append(letter)
+
+print(letters)
 """
