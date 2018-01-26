@@ -4,7 +4,9 @@ d = {"employees":[{"firstName": "John", "lastName": "Doe"},
 "owners":[{"firstName": "Jack", "lastName": "Petter"},
           {"firstName": "Jessy", "lastName": "Petter"}]}
 
-d["employees"]["firstName"] = "Albert"
-d["employees"]["lastName"] = "Bert"
-
+d["employees"].append({"firstName":"Albert", "lastName":"Bert"})
 print(d)
+
+'''
+d["employees"].append(dict(firstName = "Albert", lastName = "Bert"))
+'''
