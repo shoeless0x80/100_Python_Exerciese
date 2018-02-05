@@ -1,10 +1,12 @@
-import datetime
-from dateutil.relativedelta import relativedelta
-'''
+from datetime import datetime
+
 old = input("How old are you?: ")
-now = datetime.datetime.now()
-born = (int(now.year) - old)
+now = datetime.datetime.now().year
+born = (int(now) - int(old))
 print("You were born back in %s" % born)
+
 '''
-blah = datetime.datetime.now() - relativedelta(years=5)
-print(blah)
+age = int(input("What's your age? "))
+year_birth = datetime.now().year - age
+print("We think you were born back in %s" % year_birth)
+'''

@@ -1,16 +1,21 @@
 #Create a program that generates a password of 6 random alphanumeric characters
 #in the range abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()?
 import string
+import random
 
-foo = []
-for a, b, c, d in zip(string.ascii_lowercase, string.ascii_uppercase, string.digits, string.punctuation):
-    foo.append(a) 
-    foo.append(b)
-    foo.append(c)
-    foo.append(d)
+password = ""
+chars = string.printable
+for i in range(6):
+    ran = random.randint(0, len(chars))
+    password = password + chars[ran]
+
+print(password)
+
 '''
-foo.append(string.ascii_uppercase)
-foo.append(string.digits)
-foo.append(string.punctuation)
+import random
+
+characters = "abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()?"
+chosen = random.sample(characters, 6)
+password = "".join(chosen)
+print(password)
 '''
-print(foo)
