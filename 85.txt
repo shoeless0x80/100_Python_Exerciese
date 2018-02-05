@@ -1,180 +1,299 @@
-Afghanistan
-Albania
-Algeria
-Andorra
-Angola
-Antigua and Barbuda
-Argentina
-Armenia
-Aruba
-Australia
-Austria
-Azerbaijan
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bhutan
-Bolivia
-Bosnia and Herzegovina
-Botswana
-Brazil
-Bulgaria
-Burkina Faso
-Burundi
-Cambodia
-Cameroon
-Canada
-Cabo Verde
-Central African Republic
-Chad
-Chile
-China
-Colombia
-Comoros
-Costa Rica
-Croatia
-Cuba
-Cyprus
-Czechia
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Ethiopia
-Fiji
-Finland
-France
-Gabon
-Georgia
-Germany
-Ghana
-Greece
-Grenada
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hong Kong
-Hungary
-Iceland
-India
-Indonesia
-Iraq
-Ireland
-Israel
-Italy
-Jamaica
-Japan
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Kuwait
-Kyrgyzstan
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mexico
-Moldova
-Monaco
-Mongolia
-Montenegro
-Morocco
-Mozambique
-Namibia
-Nauru
-Nepal
-Netherlands
-New Zealand
-Nicaragua
-Niger
-Nigeria
-Norway
-Oman
-Pakistan
-Palau
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
-Qatar
-Romania
-Rwanda
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
-Samoa
-San Marino
-Sao Tome and Principe
-Saudi Arabia
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
-South Africa
-South Sudan
-Spain
-Sri Lanka
-Sudan
-Suriname
-Swaziland
-Sweden
-Switzerland
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Timor-Leste
-Togo
-Tonga
-Trinidad and Tobago
-Tunisia
-Turkey
-Turkmenistan
-Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-Uruguay
-Uzbekistan
-Vanuatu
-Venezuela
-Vietnam
-Yemen
-Zambia
-Zimbabwe
+
+
+fghanistan
+lbania
+lgeria
+ndorra
+ngola
+ntigua and arbuda
+rgentina
+rmenia
+ruba
+ustralia
+ustria
+zerbaijan
+
+
+
+
+ahamas, he
+ahrain
+angladesh
+arbados
+elarus
+elgium
+elize
+enin
+hutan
+olivia
+osnia and erzegovina
+otswana
+razil
+runei
+ulgaria
+urkina aso
+urma
+urundi
+
+
+
+
+ambodia
+ameroon
+anada
+abo erde
+entral frican epublic
+had
+hile
+hina
+olombia
+omoros
+ongo, emocratic epublic of the
+ongo, epublic of the
+osta ica
+ote d'voire
+roatia
+uba
+uracao
+yprus
+zechia
+
+
+
+
+enmark
+jibouti
+ominica
+ominican epublic
+
+
+
+
+ast imor (see imor-este)
+cuador
+gypt
+l alvador
+quatorial uinea
+ritrea
+stonia
+thiopia
+
+
+
+
+iji
+inland
+rance
+
+
+
+
+abon
+ambia, he
+eorgia
+ermany
+hana
+reece
+renada
+uatemala
+uinea
+uinea-issau
+uyana
+
+
+
+
+aiti
+oly ee
+onduras
+ong ong
+ungary
+
+
+
+
+celand
+ndia
+ndonesia
+ran
+raq
+reland
+srael
+taly
+
+
+
+
+amaica
+apan
+ordan
+
+
+
+
+azakhstan
+enya
+iribati
+orea, orth
+orea, outh
+osovo
+uwait
+yrgyzstan
+
+
+
+
+aos
+atvia
+ebanon
+esotho
+iberia
+ibya
+iechtenstein
+ithuania
+uxembourg
+
+
+
+
+acau
+acedonia
+adagascar
+alawi
+alaysia
+aldives
+ali
+alta
+arshall slands
+auritania
+auritius
+exico
+icronesia
+oldova
+onaco
+ongolia
+ontenegro
+orocco
+ozambique
+
+
+
+
+amibia
+auru
+epal
+etherlands
+ew ealand
+icaragua
+iger
+igeria
+orth orea
+orway
+
+
+
+
+man
+
+
+
+
+akistan
+alau
+alestinian erritories
+anama
+apua ew uinea
+araguay
+eru
+hilippines
+oland
+ortugal
+
+
+
+
+atar
+
+
+
+
+omania
+ussia
+wanda
+
+
+
+
+aint itts and evis
+aint ucia
+aint incent and the renadines
+amoa
+an arino
+ao ome and rincipe
+audi rabia
+enegal
+erbia
+eychelles
+ierra eone
+ingapore
+int aarten
+lovakia
+lovenia
+olomon slands
+omalia
+outh frica
+outh orea
+outh udan
+pain
+ri anka
+udan
+uriname
+waziland
+weden
+witzerland
+yria
+
+
+
+
+aiwan
+ajikistan
+anzania
+hailand
+imor-este
+ogo
+onga
+rinidad and obago
+unisia
+urkey
+urkmenistan
+uvalu
+
+
+
+
+ganda
+kraine
+nited rab mirates
+nited ingdom
+ruguay
+zbekistan
+
+
+
+
+anuatu
+enezuela
+ietnam
+
+
+
+
+emen
+
+
+
+
+ambia
+imbabwe
+
